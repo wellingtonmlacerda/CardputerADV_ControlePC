@@ -1,0 +1,5 @@
+SpeechRecognition
+Pillow
+playwright
+uiautomation
+comtypes
